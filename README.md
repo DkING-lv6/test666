@@ -5,7 +5,10 @@
 
 Figure. 1 shows the time step extended result of Humanoid-v2.
 
-![](Figure1.png "The time step extended result of Humanoid-v2")
+<div align=center>
+<img src="./Figure1.png"  alt="The time step extended result of Humanoid-v2" width="300" height="300">
+</div>
+
 
 ## **2. The challenging explore task results**
 
@@ -17,7 +20,10 @@ Figure. 2 shows the challenging explore task results.
 
 Figure. 3 shows the statistical reliability of results with IQM metric.
 
-![](Figure3.png "The statistical reliability of results with IQM metric")
+<div align=center>
+<img src="./Figure3.png"  alt="The statistical reliability of results with IQM metric" width="300" height="300">
+</div>
+
 
 ## **4. The reward noise task results**
 
@@ -29,7 +35,10 @@ The reward noise has an effect on HOER, but only in the early stages. This is du
 
 Figure. 5 shows the results of HOER with different noises on Ant-v2.
 
-![](Figure5.png "The results of HOER with different noises on Ant-v2")
+<div align=center>
+<img src="./Figure5.png"  alt="The results of HOER with different noises on Ant-v2" width="300" height="300">
+</div>
+
 
 ## **5. The results of HOER_im compared with DisCor**
 
