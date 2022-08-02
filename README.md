@@ -6,7 +6,7 @@
 Figure. 1 shows the time step extended result of Humanoid-v2.
 
 <div align=center>
-<img src="./Figure1.png"  alt="The time step extended result of Humanoid-v2" width="450" height="350">
+<img src="./Figure1.png"  alt="The time step extended result of Humanoid-v2" width="450" height="400">
 </div>
 
 
