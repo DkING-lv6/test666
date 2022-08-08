@@ -45,3 +45,19 @@ Figure. 5 shows the results of HOER with different noises on Ant-v2.
 Figure. 6 shows the results of HOER_im compared with DisCor.
 
 ![](Figure6.png "The results of HOER_im compared with DisCor")
+
+## **6. The results of a new modified Cliff tasks**
+
+The diagram.
+
+<div align=center>
+<img src="./cliff_task_modified.png"  alt="The results of HOER with different noises on Ant-v2" width="500" height="450">
+</div>
+
+Figure. 7 shows the results on the 12*8 tasks.
+
+![](Figure7.png "The results on the 12*8 tasks")
+
+Figure. 8 shows the results on the 6*4 tasks.
+
+![](Figure8.png "The results on the 6*4 tasks")
