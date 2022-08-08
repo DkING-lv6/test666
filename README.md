@@ -51,7 +51,7 @@ Figure. 6 shows the results of HOER_im compared with DisCor.
 The diagram.
 
 <div align=center>
-<img src="./cliff_task_modified.png"  alt="The results of HOER with different noises on Ant-v2" width="500" height="450">
+<img src="./cliff_task_modified.png"  alt="The results of HOER with different noises on Ant-v2" width="800" height="250">
 </div>
 
 Figure. 7 shows the results on the 12*8 tasks.
